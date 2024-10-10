@@ -1,4 +1,3 @@
-// src/components/ProviderBenchmarks.js
 import React from "react";
 
 export const ProviderBenchmarks = ({ totals }) => {
