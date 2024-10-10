@@ -9,4 +9,7 @@ Currently, two official plugins are available:
 
 
 #To Run the Project 
-- npm run dev (make sure node is intalled)
+- Navigate to the project folder in the terminal.
+- Run the following command to install all required dependencies `npm i`
+- Run the following command to start the development server `npm run dev`
+***Make sure node is installed***
